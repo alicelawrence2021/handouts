@@ -27,3 +27,11 @@ to this "handouts" folder. The result should be a subdirectory called
 "data" within this project.
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
+
+## Collaborators
+
+- Alice Lawrence
+- Lucy Southworth
+- Farrah Powell
+- 
+
